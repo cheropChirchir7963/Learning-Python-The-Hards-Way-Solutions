@@ -1,1 +1,0 @@
-#  created first a directory called Linux then within creared another folder called lpthw using mkdir command within it I create a file extention called test.txt using touch command
